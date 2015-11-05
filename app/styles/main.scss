@@ -38,6 +38,17 @@ body {
   }
 }
 
+.bar {
+
+}
+
+.bar .icon {
+  display: block;
+  float: right;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
 /* Custom page footer */
 .footer {
   padding-top: 19px;
